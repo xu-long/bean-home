@@ -1,0 +1,4 @@
+<!--pages/pageTwo/pageTwo.wxml-->
+<view>
+  <text>pageTwo</text>
+</view>
